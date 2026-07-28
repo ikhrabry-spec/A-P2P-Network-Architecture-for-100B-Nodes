@@ -1,4 +1,4 @@
-# <span><img width="27" height="auto" alt="Эмблема" src="https://github.com/user-attachments/assets/81f69236-3c81-4254-b8b9-ab47c72670c8"> &nbsp;Next-Generation P2P Network Architecture</span>
+# <span><img width="27" height="auto" alt="Эмблема" src="https://github.com/user-attachments/assets/81f69236-3c81-4254-b8b9-ab47c72670c8"> &nbsp;Next-Generation P2P Network Architecture  for 100B+ Nodes</span>
 
 Deterministic search · Anonymous authentication · Autonomous subnets
 
