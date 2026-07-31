@@ -13,6 +13,10 @@ We have solved six foundational problems in peer-to-peer networking:
 5. Message anonymization — traffic analysis resistant, built into the protocol
 6. Consensus-based verification and recovery of routing information and data — no central arbiter, no trusted nodes, low overhead
 
+These solutions are not abstract. They were developed as an engineering response to the strict requirements of a secret, verifiable voting ecosystem. 
+
+The detailed description of this architecture, its logic, and its applications are disclosed on the balloting.net website. However, to preserve the completeness and clarity of the presentation, the site is laid out in three columns and therefore displays correctly only on desktop computers and tablets.
+
 All solutions are patent-pending in the US. One patent already granted.
 
 Built for mathematically protected secret voting — and for any sovereign P2P infrastructure.
