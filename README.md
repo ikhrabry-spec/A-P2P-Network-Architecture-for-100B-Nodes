@@ -24,3 +24,12 @@ Built for mathematically protected secret voting — and for any sovereign P2P i
 We are looking for one engineering partner to co-implement this architecture. Details available under NDA.
 
 balloting.net / akhabry@balloting.net / ikhabry@balloting.net
+
+**P.S. on Patents**
+
+Patent applications are filed under the name **Aleksandr Khrabryi**
+(note the spelling difference from the email signature: Alexander Khrabry).
+Applications from 2024 are published and searchable in USPTO and Google Patents.
+
+Applications covering the core P2P routing architecture were filed
+in June and August 2026 with a nonpublication request.
