@@ -23,7 +23,7 @@ Built for mathematically protected secret voting — and for any sovereign P2P i
 
 We are looking for one engineering partner to co-implement this architecture. Details available under NDA.
 
-balloting.net / akhabry@balloting.net / ikhabry@balloting.net
+balloting.net / akhrabry@balloting.net / ikhrabry@balloting.net
 
 **P.S. on Patents**
 
